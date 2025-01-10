@@ -14,11 +14,11 @@ A **Computer Engineering** student at Universitas Pendidikan Indonesia, passiona
 - Integrated Android applications with machine learning models (**SARIMAX**) achieving over **96% accuracy** in predicting gas leaks.  
 - Developed the front-end interface for the Alertas web application.  
 
-### Task Reminder Application  
+### [Task Reminder Application](https://github.com/AurielIsLearnHowToCode/Projek-Konsultasi-4A-K6)  
 - Created the front-end for an automated task reminder web application for Labschool UPI Cibiru.  
 - Integrated Telegram bot notifications for seamless task management.  
 
-### Lifedia: Health Insurance Marketplace  
+### [Lifedia: Health Insurance Marketplace](https://github.com/callmesyafii/lifedia)  
 - Built a health insurance marketplace with range-checking functionality.  
 - Developed an admin dashboard for insurance providers using **Bootstrap** and **PHP**.  
 
