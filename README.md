@@ -1,7 +1,3 @@
-Berikut adalah versi profesional dalam bahasa Inggris untuk `README.md`:  
-
----
-
 # Hi, I'm Muhammad Syafi'i Nurullah! 👋  
 
 A **Computer Engineering** student at Universitas Pendidikan Indonesia, passionate about **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **IoT**. I thrive on creating impactful projects, ranging from IoT-based systems to web integrations and predictive machine learning models.  
